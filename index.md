@@ -66,6 +66,21 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
   <img src="congestion2.png" width="400" >
 </p>
 
+## Selected Coursework
+- CS 592: AI for Scientific Discovery (A+) 
+- CS 590: Graphs In Machine Learning (A+)
+- CS 593: Reinforcement Learning (A)
+- CS 577: Natural Language Processing (A)
+- CS 590: Randomized Algorithms (A)
+- CS 580: Algorithm Design Analy & Impl (A)
+- CS 573: Data Mining (A)
+- ECE 695: Structure and Dynamics of Large-scale Networks (A+)
+- MA 504: Real Analysis (A+)
+- IE 538: Nonlinear Optimization (A+)
+- IE 535: Linear Programming (A+)
+- IE 633: Dynamic Programming (A)
+- IE 690: Opt Game Theory Uncertainty (A)
+
 ## Sports 
 - **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, Nov. 2021)
 - **1h, 51min** (2019 Boilermaker Half-marathon, West Lafayette, Oct. 2019)
