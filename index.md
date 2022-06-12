@@ -21,7 +21,7 @@
 
 * [May 1, 2021] Our paper [Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308516) was published on **Transportation Research Part E**. 
 
-* [Oct. 27, 2020] Our paper [Online Energy-optimal Routing for Electric Vehicles with Combinatorial Multi-arm Semi-Bandit](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at the 2020 IEEE Intelligent Transportation Systems Conference **(ITSC-20)**.
+* [Oct. 27, 2020] Our paper [Online Energy-optimal Routing for Electric Vehicles with Combinatorial Multi-arm Semi-Bandit](https://ieeexplore.ieee.org/abstract/document/9294583) was presented at the 2020 IEEE Intelligent Transportation Systems Conference **(ITSC-20)**.
 
 * [Apr. 14, 2020] I completed my **master thesis** defense titled [Structural and Dynamic Models for Complex Road Networks](https://hammer.purdue.edu/articles/thesis/Structural_and_dynamic_models_for_complex_road_networks/12245345) in Purdue University. I thank committee members: Dr. Satish V. Ukkusuri, Dr. Shreyas Sundaram, and Dr. P. Suresh C. Rao, for their guidance.
 
