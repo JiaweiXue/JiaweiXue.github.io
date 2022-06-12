@@ -69,6 +69,8 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 </p>
 
 ## Selected Coursework
+- CE 597: Geospatial Modeling Analysis (A)
+- CE 597: Data Science Smart Cities (A)
 - CS 592: AI for Scientific Discovery (A+) 
 - CS 590: Graphs in Machine Learning (A+)
 - CS 593: Reinforcement Learning (A)
