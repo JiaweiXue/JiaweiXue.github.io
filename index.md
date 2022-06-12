@@ -36,6 +36,7 @@
 * Andrews Fellowship, Purdue University, 2018.
 * Tsinghua’s Friend-Luo Jian First Price Scholarship, Tsinghua University, 2017.
 * Meritorious Winner, Mathematical Contest In Modeling, 2017.
+* The Bronze Medal in the Chinese Mathematical Olympiad (CMO), Shenyang, Liaoning, 2013.
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Publications
