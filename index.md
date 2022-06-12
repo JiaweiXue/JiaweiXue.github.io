@@ -76,13 +76,13 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 * I define the optimal place to live from three perspectives
   - infrastructure accessibility (e.g., not far from airports)
   - human community development (e.g., high life expectancy)
-  - environment to inspire innovation (e.g., not too bustle, and not too loose)
+  - environment that inspires innovation (e.g., not too bustle, and not too loose)
 * Then, I conclude three optimal places: 
   - Bonn, Germany
   - Shaoxing, China
   - Toledo, OH, U.S.
 <p align="center">
-  <img src="lifemobility.png" width="800" >
+  <img src="lifemobility.png" width="600" >
 </p>
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
