@@ -28,6 +28,7 @@
 * Meritorious Winner, Mathematical Contest In Modeling, 2017.
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
+### Selected Publications
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
