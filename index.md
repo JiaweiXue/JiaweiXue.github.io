@@ -101,7 +101,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
   - Toledo, OH, U.S.
 
 <p align="center">
-  <img src="lifemobility.png" width="400" >
+  <img src="lifemobility.png" width="460" >
 </p>
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
