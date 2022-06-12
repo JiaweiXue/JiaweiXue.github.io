@@ -15,11 +15,11 @@
 
 * [Mar. 23, 2022] Our paper [Quantifying the Spatial Homogeneity of Urban Road Networks via Graph Neural Networks](https://www.nature.com/articles/s42256-022-00462-y) was published on **Nature Machine Intelligence** (2021 IF: 15.5) and was selected as the cover paper of [Volume 4 Issue 3, March 2022](https://www.nature.com/natmachintell/volumes/4/issues/3). Besides, this paper was reported by [Nature Computational Science](https://www.nature.com/articles/s43588-022-00244-x), [Tech Xplore](https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html), and [Peking University News](https://news.pku.edu.cn/jxky/b7c965cbb640434ca109da42c94d7e39.htm). 
 
-* [Jan. 10, 2022] We present [A Spatial Partitioning Algorithm of Urban Road Networks Based on Percolation Curves](https://www.researchgate.net/publication/357865214_A_Spatial_Partitioning_Algorithm_of_Urban_Road_Networks_Based_on_Percolation_Curves) at the Transportation Research Board 101st Annual Meeting in Washington, DC **(TRB-22)**.
+* [Jan. 10, 2022] We presented [A Spatial Partitioning Algorithm of Urban Road Networks Based on Percolation Curves](https://www.researchgate.net/publication/357865214_A_Spatial_Partitioning_Algorithm_of_Urban_Road_Networks_Based_on_Percolation_Curves) at the Transportation Research Board 101st Annual Meeting in Washington, DC **(TRB-22)**.
 
 * [Oct. 25, 2021] Our two papers [ADDS-EVS: An Agent-based Deployment Decision-support System for Electric Vehicle Services](https://ieeexplore.ieee.org/document/9564435) and [How Information Heterogeneity Influences Traffic Congestion during Hurricane Evacuation](https://ieeexplore.ieee.org/document/9564797) were presented at the 2021 IEEE Intelligent Transportation Systems Conference **(ITSC-21)**.
 
-* [June 30, 2021] We present [Braess’s Paradox in Scale-free Networks](https://www.youtube.com/watch?v=jdjE9pcYW2c) at the 8th International Symposium on Dynamic Traffic Assignment **(DTA-21)**. 
+* [June 30, 2021] We presented [Braess’s Paradox in Scale-free Networks](https://www.youtube.com/watch?v=jdjE9pcYW2c) at the 8th International Symposium on Dynamic Traffic Assignment **(DTA-21)**. 
 
 * [May 1, 2021] Our paper [Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308516) was published on **Transportation Research Part E**. 
 
