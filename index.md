@@ -4,9 +4,9 @@
   <img src="pic2.png" width="200" height="230">
 </p>
 
-* Location: Lyles School of Civil Engineering, Purdue University, 550 W Stadium Ave, West Lafayette, IN 47907, U.S.
-* Phone: (765) 714-7627
-* Email: xue120@purdue.edu
+* **Location**: Lyles School of Civil Engineering, Purdue University, 550 W Stadium Ave, West Lafayette, IN 47907, U.S.
+* **Phone**: (765) 714-7627
+* **Email**: xue120@purdue.edu
 
 ## News
 * [May 19, 2022] Our paper [Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data](https://www.researchgate.net/publication/355474017_Multiwave_COVID-19_Prediction_from_Social_Awareness_using_Web_Search_and_Mobility_Data) was accepted by the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD-22)**. 
@@ -25,14 +25,14 @@
 
 * [Apr. 14, 2020] I completed my **master thesis** defense titled [Structural and Dynamic Models for Complex Road Networks](https://hammer.purdue.edu/articles/thesis/Structural_and_dynamic_models_for_complex_road_networks/12245345) in Purdue University. I thank committee members: Dr. Satish V. Ukkusuri, Dr. Shreyas Sundaram, and Dr. P. Suresh C. Rao, for their guidance.
 
-* [Jan. 28, 2020] Our paper ["Impact of Transportation Network Companies on Urban Congestion: Evidence from Large-scale Trajectory Data"](https://www.sciencedirect.com/science/article/abs/pii/S2210670720300408) was published on **Sustainable Cities and Society**. 
+* [Jan. 28, 2020] Our paper [Impact of Transportation Network Companies on Urban Congestion: Evidence from Large-scale Trajectory Data](https://www.sciencedirect.com/science/article/abs/pii/S2210670720300408) was published on **Sustainable Cities and Society**. 
 
-* [Oct. 27, 2019] Our paper ["Stationary Spatial Charging Demand Distribution for Commercial Electric Vehicles in Urban Area"](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at the 2019 IEEE Intelligent Transportation Systems Conference **(ITSC-19)**.
+* [Oct. 27, 2019] Our paper [Stationary Spatial Charging Demand Distribution for Commercial Electric Vehicles in Urban Area](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at the 2019 IEEE Intelligent Transportation Systems Conference **(ITSC-19)**.
 
 ---
 
 ## Awards
-* STV Civil Engineering Grad Assistantship Endowment, Purdue University, 2019
+* STV Civil Engineering Grad Assistantship Endowment, Purdue University, 2019.
 * Andrews Fellowship, Purdue University, 2018.
 * Tsinghua’s Friend-Luo Jian First Price Scholarship, Tsinghua University, 2017.
 * Meritorious Winner, Mathematical Contest In Modeling, 2017.
@@ -82,20 +82,20 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - IE 690: Opt Game Theory Uncertainty (A)
 
 ## Sports 
-- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, Nov. 2021)
-- **1h, 51min** (2019 Boilermaker Half-marathon, West Lafayette, Oct. 2019)
-- **1h, 58min** (2018 Boilermaker Half-marathon, West Lafayette, Oct. 2018)
-- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017)
+- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, Nov. 2021).
+- **1h, 51min** (2019 Boilermaker Half-marathon, West Lafayette, Oct. 2019).
+- **1h, 58min** (2018 Boilermaker Half-marathon, West Lafayette, Oct. 2018).
+- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017).
 
 ## Mobility History
 * I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update our belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
-* I define the optimal place to live from three perspectives
-  - infrastructure accessibility (e.g., not far from airports)
-  - human community development (e.g., high life expectancy)
-  - environment that inspires innovation (e.g., not too bustle, and not too loose)
+* I define the optimal place to live from three perspectives:
+  - infrastructure accessibility (e.g., not far from airports).
+  - human community development (e.g., high life expectancy).
+  - environment that inspires innovation (e.g., not too bustle, and not too loose).
 * Then, I conclude three optimal places: 
-  - Bonn, Germany
-  - Shaoxing, China
+  - Bonn, Germany.
+  - Shaoxing, China.
   - Toledo, OH, U.S.
 <p align="center">
   <img src="lifemobility.png" width="500" >
