@@ -99,8 +99,9 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
   - Bonn, Germany.
   - Shaoxing, China.
   - Toledo, OH, U.S.
+
 <p align="center">
-  <img src="lifemobility.png" width="500" >
+  <img src="lifemobility.png" width="400" >
 </p>
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
