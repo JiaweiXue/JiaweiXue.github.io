@@ -5,8 +5,8 @@
 </p>
 
 * **Location**: Lyles School of Civil Engineering, Purdue University, 550 W Stadium Ave, West Lafayette, IN 47907, U.S.
-* **Phone**: (765) 714-7627
-* **Email**: xue120@purdue.edu
+* **Phone**: (765) 714-7627.
+* **Email**: xue120@purdue.edu.
 
 ## News
 * [July 2022] Our paper [Demand-adaptive Route Planning and Scheduling for Urban Hub-based High-capacity Mobility-on-demand Services](http://isttt24.buaa.edu.cn/List_of_Accepted_Papers.htm) will be presented as a poster at the 24th International Symposium on Transportation and Traffic Theory **(ISTTT-24)**, Beijing, July 24 to 26, 2022.
