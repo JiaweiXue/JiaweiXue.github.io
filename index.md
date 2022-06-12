@@ -1,5 +1,5 @@
 ## Contact
-* My photo taken on Mar. 13, 2022 at 40.286&deg;N, 87.292&deg;W.
+* My photo was taken on Mar. 13, 2022, at 40.286&deg;N, 87.292&deg;W.
 <p align="center">
   <img src="pic2.png" width="200" height="230">
 </p>
@@ -13,21 +13,21 @@
 
 * [Mar. 23, 2022] Our paper [Quantifying the Spatial Homogeneity of Urban Road Networks via Graph Neural Networks](https://www.nature.com/articles/s42256-022-00462-y) was published on **Nature Machine Intelligence** and was selected as the cover paper of [Volume 4 Issue 3, March 2022](https://www.nature.com/natmachintell/volumes/4/issues/3). Besides, this paper was reported by [Nature Computational Science](https://www.nature.com/articles/s43588-022-00244-x), [Tech Xplore](https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html), and [Peking University News](https://news.pku.edu.cn/jxky/b7c965cbb640434ca109da42c94d7e39.htm). 
 
-* [Jan. 10, 2022] We present [A Spatial Partitioning Algorithm of Urban Road Networks Based on Percolation Curves](https://www.researchgate.net/publication/357865214_A_Spatial_Partitioning_Algorithm_of_Urban_Road_Networks_Based_on_Percolation_Curves) at Transportation Research Board 101st Annual Meeting at Washington, DC **(TRB-22)**.
+* [Jan. 10, 2022] We present [A Spatial Partitioning Algorithm of Urban Road Networks Based on Percolation Curves](https://www.researchgate.net/publication/357865214_A_Spatial_Partitioning_Algorithm_of_Urban_Road_Networks_Based_on_Percolation_Curves) at the Transportation Research Board 101st Annual Meeting in Washington, DC **(TRB-22)**.
 
-* [Oct. 25, 2021] Our two papers [ADDS-EVS: An Agent-based Deployment Decision-support System for Electric Vehicle Services](https://ieeexplore.ieee.org/document/9564435) and [How Information Heterogeneity Influences Traffic Congestion during Hurricane Evacuation](https://ieeexplore.ieee.org/document/9564797) were presented at 2021 IEEE Intelligent Transportation Systems Conference **(ITSC-21)**.
+* [Oct. 25, 2021] Our two papers [ADDS-EVS: An Agent-based Deployment Decision-support System for Electric Vehicle Services](https://ieeexplore.ieee.org/document/9564435) and [How Information Heterogeneity Influences Traffic Congestion during Hurricane Evacuation](https://ieeexplore.ieee.org/document/9564797) were presented at the 2021 IEEE Intelligent Transportation Systems Conference **(ITSC-21)**.
 
 * [June 30, 2021] We present [Braess’s Paradox in Scale-free Networks](https://www.youtube.com/watch?v=jdjE9pcYW2c) at the 8th International Symposium on Dynamic Traffic Assignment **(DTA-21)**. 
 
 * [May 1, 2021] Our paper [Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308516) was published on **Transportation Research Part E**. 
 
-* [Oct. 27, 2020] Our paper [Online Energy-optimal Routing for Electric Vehicles with Combinatorial Multi-arm Semi-Bandit](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at 2020 IEEE Intelligent Transportation Systems Conference **(ITSC-20)**.
+* [Oct. 27, 2020] Our paper [Online Energy-optimal Routing for Electric Vehicles with Combinatorial Multi-arm Semi-Bandit](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at the 2020 IEEE Intelligent Transportation Systems Conference **(ITSC-20)**.
 
 * [Apr. 14, 2020] I completed my **master thesis** defense titled [Structural and Dynamic Models for Complex Road Networks](https://hammer.purdue.edu/articles/thesis/Structural_and_dynamic_models_for_complex_road_networks/12245345) in Purdue University. I thank committee members: Dr. Satish V. Ukkusuri, Dr. Shreyas Sundaram, and Dr. P. Suresh C. Rao, for their guidance.
 
 * [Jan. 28, 2020] Our paper ["Impact of Transportation Network Companies on Urban Congestion: Evidence from Large-scale Trajectory Data"](https://www.sciencedirect.com/science/article/abs/pii/S2210670720300408) was published on **Sustainable Cities and Society**. 
 
-* [Oct. 27, 2019] Our paper ["Stationary Spatial Charging Demand Distribution for Commercial Electric Vehicles in Urban Area"](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at 2019 IEEE Intelligent Transportation Systems Conference **(ITSC-19)**.
+* [Oct. 27, 2019] Our paper ["Stationary Spatial Charging Demand Distribution for Commercial Electric Vehicles in Urban Area"](https://ieeexplore.ieee.org/abstract/document/8917359) was presented at the 2019 IEEE Intelligent Transportation Systems Conference **(ITSC-19)**.
 
 ---
 
@@ -71,8 +71,19 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature 
 - **1h, 58min** (2018 Boilermaker Half-marathon, West Lafayette, Oct. 2018)
 - **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017)
 
-## Life Mobility
-
+## Mobility History
+* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. We update our belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
+* I define the optimal place to live from three perspectives
+  - infrastructure accessibility (e.g., not far from airports)
+  - human community development (e.g., high life expectancy)
+  - environment to inspire innovation (e.g., not too bustle, and not too loose)
+* Then, I conclude three optimal places: 
+  - Bonn, Germany
+  - Shaoxing, China
+  - Toledo, OH, U.S.
+<p align="center">
+  <img src="lifemobility.png" width="800" >
+</p>
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
 <!-- Remove above link if you don't want to attibute -->  
