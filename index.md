@@ -34,7 +34,7 @@
 * **Jiawei Xue**, Nan Jiang, Senwei Liang, Qiyuan Pang, Takahiro Yabe, Satish V. Ukkusuri, Jianzhu Ma. **"Quantifying the
 Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature Machine Intelligence, 2022. 
 <p align="left">
-  <img src="https://github.com/JiaweiXue/JiaweiXue.github.io/blob/main/nmi-fig.png" width="300">
+  <img src="nmi-fig.png" width="300">
 </p>
 
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **"Multiwave COVID-19 Prediction from
@@ -42,19 +42,20 @@ Social Awareness using Web Search and Mobility Data"**. Applied Data Science Tra
 on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
 
 <p align="left">
-  <img src="https://github.com/JiaweiXue/JiaweiXue.github.io/blob/main/covid19-prediction.png" width="500">
+  <img src="covid19-prediction.png" width="500">
 </p>
 
 * Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes byIntegrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
 
+
 <p align="left">
-  <img src="https://github.com/JiaweiXue/JiaweiXue.github.io/blob/main/deliveryOptions13.png" width="500" height="200">
+  <img src="deliveryOptions13.png" width="500" height="200">
 </p>
 
 * Xinwu Qian, Tian Lei, **Jiawei Xue**, Zengxiang Lei, Satish V. Ukkusuri. **"Impact of Transportation NetworkCompanies on Urban Congestion: Evidence from Large-scale Trajectory Data."** Sustainable Cities and Society, 2020.
 
 <p align="left">
-  <img src="https://github.com/JiaweiXue/JiaweiXue.github.io/blob/main/congestion2.png" width="500" >
+  <img src="congestion2.png" width="500" >
 </p>
 
 ### Sports 
