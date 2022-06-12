@@ -39,27 +39,27 @@
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Publications
-* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **"Multiwave COVID-19 Prediction from
-Social Awareness using Web Search and Mobility Data"**. Applied Data Science Track. The 28th ACM SIGKDD Conference
+* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
+Social Awareness using Web Search and Mobility Data**. Applied Data Science Track. The 28th ACM SIGKDD Conference
 on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
 <p align="center">
   <img src="covid19-prediction.png" width="400">
 </p>
 
-* **Jiawei Xue**, Nan Jiang, Senwei Liang, Qiyuan Pang, Takahiro Yabe, Satish V. Ukkusuri, Jianzhu Ma. **"Quantifying the
-Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature Machine Intelligence, 2022. 
+* **Jiawei Xue**, Nan Jiang, Senwei Liang, Qiyuan Pang, Takahiro Yabe, Satish V. Ukkusuri, Jianzhu Ma. **Quantifying the
+Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature Machine Intelligence, 2022. 
 <p align="center">
   <img src="nmi-fig.png" width="200">
 </p>
 
-* Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes byIntegrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
+* Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
 
 
 <p align="center">
   <img src="deliveryOptions13.png" width="400" height="150">
 </p>
 
-* Xinwu Qian, Tian Lei, **Jiawei Xue**, Zengxiang Lei, Satish V. Ukkusuri. **"Impact of Transportation NetworkCompanies on Urban Congestion: Evidence from Large-scale Trajectory Data."** Sustainable Cities and Society, 2020.
+* Xinwu Qian, Tian Lei, **Jiawei Xue**, Zengxiang Lei, Satish V. Ukkusuri. **Impact of Transportation Network Companies on Urban Congestion: Evidence from Large-scale Trajectory Data.** Sustainable Cities and Society, 2020.
 
 <p align="center">
   <img src="congestion2.png" width="400" >
@@ -72,7 +72,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature 
 - **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017)
 
 ## Mobility History
-* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. We update our belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
+* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update our belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
 * I define the optimal place to live from three perspectives
   - infrastructure accessibility (e.g., not far from airports)
   - human community development (e.g., high life expectancy)
