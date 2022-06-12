@@ -70,12 +70,12 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 
 ## Selected Coursework
 - CS 592: AI for Scientific Discovery (A+) 
-- CS 590: Graphs In Machine Learning (A+)
+- CS 590: Graphs in Machine Learning (A+)
 - CS 593: Reinforcement Learning (A)
 - CS 577: Natural Language Processing (A)
-- CS 590: Randomized Algorithms (A)
-- CS 580: Algorithm Design Analy & Impl (A)
 - CS 573: Data Mining (A)
+- CS 590: Randomized Algorithms (A)
+- CS 580: Algorithm Design Analysis and Implementation (A)
 - ECE 695: Structure and Dynamics of Large-scale Networks (A+)
 - MA 504: Real Analysis (A+)
 - IE 538: Nonlinear Optimization (A+)
