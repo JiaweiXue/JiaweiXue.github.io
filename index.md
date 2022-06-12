@@ -1,4 +1,8 @@
-
+## About Me
+* My photo taken on Mar. 13, 2022 at 40.286&deg;N, 87.292&deg;W.
+<p align="center">
+  <img src="pic2.png" width="200" height="230">
+</p>
 
 ## News
 * [May 19, 2022] Our paper **"Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data"** was accepted by [the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD-22)](https://kdd.org/kdd2022/). 
@@ -31,18 +35,17 @@
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ### Selected Publications
+* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **"Multiwave COVID-19 Prediction from
+Social Awareness using Web Search and Mobility Data"**. Applied Data Science Track. The 28th ACM SIGKDD Conference
+on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
+<p align="center">
+  <img src="covid19-prediction.png" width="400">
+</p>
+
 * **Jiawei Xue**, Nan Jiang, Senwei Liang, Qiyuan Pang, Takahiro Yabe, Satish V. Ukkusuri, Jianzhu Ma. **"Quantifying the
 Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature Machine Intelligence, 2022. 
 <p align="center">
   <img src="nmi-fig.png" width="200">
-</p>
-
-* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **"Multiwave COVID-19 Prediction from
-Social Awareness using Web Search and Mobility Data"**. Applied Data Science Track. The 28th ACM SIGKDD Conference
-on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
-
-<p align="center">
-  <img src="covid19-prediction.png" width="400">
 </p>
 
 * Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes byIntegrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
@@ -67,9 +70,5 @@ on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18,
 
 
 
-
-
-
-[//]: ---  
-[//]: <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>  
-[//]: <!-- Remove above link if you don't want to attibute -->  
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
+<!-- Remove above link if you don't want to attibute -->  
