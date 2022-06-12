@@ -92,7 +92,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017).
 
 ## Mobility History
-* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update our belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
+* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update my belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
 * I define the optimal place to live from three perspectives:
   - infrastructure accessibility (e.g., not far from airports).
   - human community development (e.g., high life expectancy).
