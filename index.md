@@ -33,7 +33,7 @@
 ### Selected Publications
 * **Jiawei Xue**, Nan Jiang, Senwei Liang, Qiyuan Pang, Takahiro Yabe, Satish V. Ukkusuri, Jianzhu Ma. **"Quantifying the
 Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature Machine Intelligence, 2022. 
-<p align="left">
+<p align="center">
   <img src="nmi-fig.png" width="200">
 </p>
 
@@ -41,35 +41,35 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks"**. Nature 
 Social Awareness using Web Search and Mobility Data"**. Applied Data Science Track. The 28th ACM SIGKDD Conference
 on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
 
-<p align="left">
+<p align="center">
   <img src="covid19-prediction.png" width="400">
 </p>
 
 * Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes byIntegrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
 
 
-<p align="left">
+<p align="center">
   <img src="deliveryOptions13.png" width="400" height="150">
 </p>
 
 * Xinwu Qian, Tian Lei, **Jiawei Xue**, Zengxiang Lei, Satish V. Ukkusuri. **"Impact of Transportation NetworkCompanies on Urban Congestion: Evidence from Large-scale Trajectory Data."** Sustainable Cities and Society, 2020.
 
-<p align="left">
+<p align="center">
   <img src="congestion2.png" width="400" >
 </p>
 
 ### Sports 
 
-- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon)
-- **1h, 51min** (2019 Boilermaker Half-marathon)
-- **1h, 58min** (2018 Boilermaker Half-marathon)
-- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon)
+- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, Nov. 2021)
+- **1h, 51min** (2019 Boilermaker Half-marathon, West Lafayette, Oct. 2019)
+- **1h, 58min** (2018 Boilermaker Half-marathon, West Lafayette, Oct. 2018)
+- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017)
 
 
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[//]: ---  
+[//]: <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>  
+[//]: <!-- Remove above link if you don't want to attibute -->  
