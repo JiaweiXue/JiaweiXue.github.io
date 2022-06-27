@@ -11,7 +11,7 @@
 ## News
 * [July 2022] Our paper [Demand-adaptive Route Planning and Scheduling for Urban Hub-based High-capacity Mobility-on-demand Services](http://isttt24.buaa.edu.cn/List_of_Accepted_Papers.htm) will be presented as a poster at the 24th International Symposium on Transportation and Traffic Theory **(ISTTT-24)**, Beijing, July 24 to 26, 2022.
 
-* [June 20, 2022] I gave a talk titled [Harness Graph Neural Networks to Empower Urban Science Research](https://app.box.com/s/327vdk446vv2jcfi33m3nrushq58woot) at China Transportation Institute, Tongji University, China. We had a fruitful discussion and I thanked Dr. Yuntao Guo to organize the talk. 
+* [June 20, 2022] I gave a talk titled [Harness Graph Neural Networks to Empower Urban Science Research](https://app.box.com/s/327vdk446vv2jcfi33m3nrushq58woot) (click to download the slide) at China Transportation Institute, Tongji University, China. We had a fruitful discussion and I thanked Dr. Yuntao Guo to organize the talk. 
 
 * [May 19, 2022] Our paper [Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data](https://www.researchgate.net/publication/355474017_Multiwave_COVID-19_Prediction_from_Social_Awareness_using_Web_Search_and_Mobility_Data) was accepted by the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD-22)**. Acceptance Rate: 25.9% (195/753).
 
