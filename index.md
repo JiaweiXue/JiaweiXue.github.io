@@ -13,7 +13,7 @@
 
 * [June 20, 2022] I gave a talk titled [Harness Graph Neural Networks to Empower Urban Science Research](https://app.box.com/s/327vdk446vv2jcfi33m3nrushq58woot) (click to download the slide) at China Transportation Institute, Tongji University, China. We had a fruitful discussion and I thanked Dr. Yuntao Guo to organize the talk. 
 
-* [May 19, 2022] Our paper [Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data](https://www.researchgate.net/publication/355474017_Multiwave_COVID-19_Prediction_from_Social_Awareness_using_Web_Search_and_Mobility_Data) was accepted by the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD-22)**. Acceptance Rate: 25.9% (195/753). **Oral Presentation.**
+* [May 19, 2022] Our paper [Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data](https://www.kdd.org/kdd2022/paperADS.html) was accepted by the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD-22)**. Acceptance Rate: 25.9% (195/753). **Oral Presentation.**
 
 * [Mar. 23, 2022] Our paper [Quantifying the Spatial Homogeneity of Urban Road Networks via Graph Neural Networks](https://www.nature.com/articles/s42256-022-00462-y) was published on **Nature Machine Intelligence** (2021 IF: 25.90) and was selected as the cover paper of [Volume 4 Issue 3, March 2022](https://www.nature.com/natmachintell/volumes/4/issues/3). Besides, this paper was reported by [Nature Computational Science](https://www.nature.com/articles/s43588-022-00244-x), [Tech Xplore](https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html), and [Peking University News](https://news.pku.edu.cn/jxky/b7c965cbb640434ca109da42c94d7e39.htm). 
 
