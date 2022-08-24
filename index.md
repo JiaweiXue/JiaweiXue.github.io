@@ -9,7 +9,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [August 17, 2022] I gave two talks titled [Artificial Intelligence in Urban Science Discovery: Graph Neural Networks] and [Optimization in Emerging Transportation Technologies: Adaptive Buses, Crowd-shipping Logistics] at Chang' An University, China. I also thanked Mr. Ruisen Jiang, Ms. Xue Wu, and Mr. Ziyang Jin for their presentations about pollution reduction-oriented bus fleet optimization, hybrid crowd-shipping service optimization, and network resilience analysis.
+* [August 17, 2022] I gave two talks titled **Artificial Intelligence in Urban Science Discovery: Graph Neural Networks** and **Optimization in Emerging Transportation Technologies: Adaptive Buses, Crowd-shipping Logistics** at Chang' An University, China.
 
 * [July 2022] Our paper [Demand-adaptive Route Planning and Scheduling for Urban Hub-based High-capacity Mobility-on-demand Services](http://isttt24.buaa.edu.cn/List_of_Accepted_Papers.htm) was presented as a poster at the 24th International Symposium on Transportation and Traffic Theory **(ISTTT-24)**, Beijing, July 24 to 26, 2022.
 
