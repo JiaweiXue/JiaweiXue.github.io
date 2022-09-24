@@ -9,7 +9,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [Sept. 24, 2022] Our paper [Online Eco-routing for Electric Vehicles using Combinatorial Multi-armed Bandit with Estimated Covariance](https://www.sciencedirect.com/science/article/pii/S1361920922002735?dgcid=coauthor) was online at Transportation Research Part D: Transport and Environment. 
+* [Sept. 24, 2022] Our paper [Online Eco-routing for Electric Vehicles using Combinatorial Multi-armed Bandit with Estimated Covariance](https://www.sciencedirect.com/science/article/pii/S1361920922002735?dgcid=coauthor) was online at **Transportation Research Part D: Transport and Environment**. 
 
 * [August 17, 2022] I gave two talks titled **Artificial Intelligence in Urban Science Discovery: Graph Neural Networks** and **Optimization in Emerging Transportation Technologies: Adaptive Buses, Crowd-shipping Logistics** at Chang' An University, China.
 
