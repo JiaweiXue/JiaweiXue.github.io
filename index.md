@@ -27,7 +27,7 @@
 
 * [June 30, 2021] We presented [Braess’s Paradox in Scale-free Networks](https://www.youtube.com/watch?v=jdjE9pcYW2c) at the 8th International Symposium on Dynamic Traffic Assignment **(DTA-21)**. 
 
-* [May 1, 2021] Our paper [Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308516) was published on **Transportation Research Part E**. 
+* [May 1, 2021] Our paper [Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308516) was published on **Transportation Research Part E: Logistics and Transportation Review**. 
 
 * [Oct. 27, 2020] Our paper [Online Energy-optimal Routing for Electric Vehicles with Combinatorial Multi-arm Semi-Bandit](https://ieeexplore.ieee.org/abstract/document/9294583) was presented at the 2020 IEEE Intelligent Transportation Systems Conference **(ITSC-20)**.
 
