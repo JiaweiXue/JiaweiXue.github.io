@@ -9,6 +9,10 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [Oct. 22, 2022] I accomplished 21.1 km with 1:43:56 (PB) in [the 2022 Purdue Boilermaker Half-marathon](https://purduehalf.com/) in West Lafayette. Thanks for my passion for running and consistent effort! Hope colleagues can enjoy sports and maintain a healthy life!
+
+* [Oct. 1, 2022] Our paper **Supporting Post-disaster Recovery with Agent-based Modeling on Multilayer Social-physical Networks** was accepted at the Transportation Research Board 102nd Annual Meeting in Washington, DC **(TRB-23)**. See you in D.C. next January!
+
 * [Sept. 24, 2022] Our paper [Online Eco-routing for Electric Vehicles using Combinatorial Multi-armed Bandit with Estimated Covariance](https://www.sciencedirect.com/science/article/pii/S1361920922002735?dgcid=coauthor) was online at **Transportation Research Part D: Transport and Environment**. 
 
 * [August 17, 2022] I gave two talks titled **Artificial Intelligence in Urban Science Discovery: Graph Neural Networks** and **Optimization in Emerging Transportation Technologies: Adaptive Buses, Crowd-shipping Logistics** at Chang' An University, China.
