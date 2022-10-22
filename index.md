@@ -96,9 +96,10 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - IE 690: Opt Game Theory Uncertainty (A)
 
 ## Sports 
-- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, Nov. 2021).
-- **1h, 51min** (2019 Boilermaker Half-marathon, West Lafayette, Oct. 2019).
-- **1h, 58min** (2018 Boilermaker Half-marathon, West Lafayette, Oct. 2018).
+- **1h, 44min** (2022 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2022).
+- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, IN, Nov. 2021).
+- **1h, 51min** (2019 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2019).
+- **1h, 58min** (2018 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2018).
 - **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017).
 
 ## Mobility History
