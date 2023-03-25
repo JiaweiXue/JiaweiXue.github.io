@@ -9,6 +9,8 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [March 22, 2023] We present our study **Predicting Individual-level Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks** under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
+
 * [Oct. 22, 2022] I accomplished 21.1 km with 1:43:56 (PB) in [the 2022 Purdue Boilermaker Half-marathon](https://purduehalf.com/) in West Lafayette. Thanks for my passion for running and consistent effort! Hope colleagues can enjoy sports and maintain a healthy life!
 
 * [Oct. 1, 2022] Our paper **Supporting Post-disaster Recovery with Agent-based Modeling on Multilayer Social-physical Networks** was accepted to present at the Transportation Research Board 102nd Annual Meeting in Washington, DC **(TRB-23)**. See you in D.C. next January!
