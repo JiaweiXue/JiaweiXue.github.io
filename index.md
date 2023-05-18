@@ -9,6 +9,8 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [April 27, 2023] I am pleased to pass the prelimnary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
+
 * [March 22, 2023] We present our study **Predicting Individual-level Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks** under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
 
 * [Oct. 22, 2022] I accomplished 21.1 km with 1:43:56 (PB) in [the 2022 Purdue Boilermaker Half-marathon](https://purduehalf.com/) in West Lafayette. Thanks for my passion for running and consistent effort! Hope colleagues can enjoy sports and maintain a healthy life!
@@ -81,6 +83,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 </p>
 
 ## Selected Coursework
+- CE 565: Traffic Engineering: Operation and Controls (A+)
 - CE 597: Geospatial Modeling Analysis (A)
 - CE 597: Data Science Smart Cities (A)
 - CS 592: AI for Scientific Discovery (A+) 
@@ -96,6 +99,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - IE 535: Linear Programming (A+)
 - IE 633: Dynamic Programming (A)
 - IE 690: Opt Game Theory Uncertainty (A)
+- STAT 526: Advanced Statistical Methodology (A+)
 
 ## Sports 
 - **1h, 44min** (2022 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2022).
