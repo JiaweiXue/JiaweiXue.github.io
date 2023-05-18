@@ -9,7 +9,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [April 27, 2023] I am pleased to pass the prelimnary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
+* [April 27, 2023] I am pleased to pass the preliminary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
 
 * [March 22, 2023] We present our study **Predicting Individual-level Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks** under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
 
