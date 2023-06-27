@@ -9,6 +9,8 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [June 27, 2023] I am delighted to join as a research intern at [the Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/), which is affiliated with Tsinghua University. My internship will take place from July to August 2023.
+  
 * [April 27, 2023] I am pleased to pass the preliminary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
 
 * [March 22, 2023] We present our study **Predicting Individual-level Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks** under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
