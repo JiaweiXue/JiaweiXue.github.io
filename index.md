@@ -9,7 +9,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [June 27, 2023] I am delighted to join as a research intern at [the Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/), Tsinghua University since July 2023.
+* [June 27, 2023] I am delighted to join as a research intern at [the Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) since July 2023.
   
 * [April 27, 2023] I am pleased to pass the preliminary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
 
