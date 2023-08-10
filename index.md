@@ -9,11 +9,13 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [August 6, 2023] Our study, Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks, received **the Best Poster Award** (1 out of 18) at [the First Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/) in Beijing on August 5-6, 2023. Sincere thanks to all collaborators: Dr. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
+  
 * [June 27, 2023] I am delighted to join as a research intern at [the Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) since July 2023.
   
 * [April 27, 2023] I am pleased to pass the preliminary examination for my doctoral dissertation titled **Physic-driven Graph Learning in Urban Networks**. I express my gratitude to the esteemed committee members: Prof. Satish V. Ukkusuri, Prof. Yiheng Feng, Prof. Yexiang Xue, and Prof. Vijay Gupta!
 
-* [March 22, 2023] We present our study **Predicting Individual-level Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks** under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
+* [March 22, 2023] We present our study under **Research Case of Location Information Obtained from Smartphones** hosted by [Yahoo! JAPAN R&D](https://randd.yahoo.co.jp/en)!
 
 * [Oct. 22, 2022] I accomplished 21.1 km with 1:43:56 (PB) in [the 2022 Purdue Boilermaker Half-marathon](https://purduehalf.com/) in West Lafayette. Thanks for my passion for running and consistent effort! Hope colleagues can enjoy sports and maintain a healthy life!
 
