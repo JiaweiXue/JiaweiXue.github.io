@@ -9,6 +9,8 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [Sept. 29, 2023] Three papers were accepted to present at the Transportation Research Board 103rd Annual Meeting in Washington, DC **(TRB-24)**. Congratulations to colleagues and Prof. Ukkusuri!
+  
 * [August 6, 2023] Our study, Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks, received **the Best Poster Award** (1 out of 18) at [the First Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/) in Beijing on August 5-6, 2023. Sincere thanks to all collaborators: Dr. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
   
 * [June 27, 2023] I am delighted to join as a research intern at [the Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) since July 2023.
