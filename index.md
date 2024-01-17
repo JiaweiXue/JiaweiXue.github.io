@@ -9,6 +9,10 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [Jan. 17, 2024] I am pleased to present our research on graph learning in urban networks to colleagues at the Senseable City Lab at Massachusetts Institute of Technology and the DitecT Lab at Columbia University.
+  
+* [Jan. 14, 2024] Our paper **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles** was accepted by **Simulation Modelling Practice and Theory**. This is a city-wide, high-resolution (vehicle level and 0.3 seconds per tick) multi-modal (taxis and buses) traffic simulator. Congratulations to project leaders Zengxiang Lei, Dr. Xinwu Qian, Prof. Ukkusuri, and other colleagues. Please find our codes at https://github.com/umnilab/METS-R_SIM.
+  
 * [Sept. 29, 2023] Three papers were accepted to present at the Transportation Research Board 103rd Annual Meeting in Washington, DC **(TRB-24)**. Congratulations to colleagues and Prof. Ukkusuri!
   
 * [Aug. 6, 2023] Our study, Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks, received **the Best Poster Award** (1 out of 18) at [the First Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/) in Beijing on August 5-6, 2023. Sincere thanks to all collaborators: Dr. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
