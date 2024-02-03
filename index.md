@@ -68,25 +68,31 @@
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Papers
-* **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery
-in Multilayer Socio-physical Networks**. Under Review.
+
+* **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks**. Under Review.
 <p align="center">
-  <img src="hurricane.png" width="530">
+  <img src="hurricane.png" width="580">
 </p>
 
-* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, and Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-Informed
-Graph Learning for Traffic State Imputation**. Under Review.
+* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, and Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-informed Graph Learning for Traffic State Imputation**. Under Review.
 <p align="center">
   <img src="nmfd-gnn.png" width="360">
 </p>
 
-* **Jiawei Xue**, Eunhan Ka, Washim Uddin Mondal, Satish V. Ukkusuri. **Generating Network-level Dynamic Traffic
-Equations Using Symbolic Regression**. Transportation Research Board 103rd Annual Meeting, 2024.
+* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. Under Review.
 <p align="center">
-  <img src="nmfd.png" width="420">
+  <img src="search_mobility.png" width="380">
+</p>
+
+* **Jiawei Xue**, Eunhan Ka, Washim Uddin Mondal, Satish V. Ukkusuri. **Generating Network-level Dynamic Traffic Equations Using Symbolic Regression**. Transportation Research Board 103rd Annual Meeting, 2024.
+<p align="center">
+  <img src="nmfd.png" width="400">
 </p>
 
 * Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles**. Simulation Modelling Practice and Theory, 2024.
+<p align="center">
+  <img src="framwork.png" width="420">
+</p>
 
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
 Social Awareness using Web Search and Mobility Data**. Applied Data Science Track. The 28th ACM SIGKDD Conference
@@ -102,7 +108,6 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 </p>
 
 * Tho V. Le, Satish V. Ukkusuri, **Jiawei Xue**, Tom Van Woensel. **Designing Pricing and Compensation Schemes by Integrating Matching and Routing Models for Crowd-shipping Systems.** Transportation Research Part E, 2021.
-
 
 <p align="center">
   <img src="deliveryOptions13.png" width="400" height="150">
