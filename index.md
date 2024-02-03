@@ -67,7 +67,13 @@
 * The Bronze Medal in the Chinese Mathematical Olympiad (CMO), Shenyang, Liaoning, 2013.
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
-## Selected Publications
+## Selected Papers
+* **Jiawei Xue**, Eunhan Ka, Washim Uddin Mondal, Satish V. Ukkusuri. **Generating Network-level Dynamic Traffic
+Equations Using Symbolic Regression**. Transportation Research Board 103rd Annual Meeting, 2024.
+<p align="center">
+  <img src="nmfd.png" width="480">
+</p>
+
 * Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles**. Simulation Modelling Practice and Theory, 2024.
 
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
