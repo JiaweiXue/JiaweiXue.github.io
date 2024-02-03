@@ -74,7 +74,7 @@
   <img src="hurricane.png" width="580">
 </p>
 
-* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, and Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-informed Graph Learning for Traffic State Imputation**. Under Review.
+* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-informed Graph Learning for Traffic State Imputation**. Under Review.
 <p align="center">
   <img src="nmfd-gnn.png" width="360">
 </p>
