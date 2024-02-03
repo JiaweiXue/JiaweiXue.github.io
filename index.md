@@ -69,14 +69,6 @@
 
 ## Selected Publications
 * Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A simulator for multi-modal Energy-optimal Trip Scheduling in Real-time with shared autonomous electric vehicles**. Simulation Modelling Practice and Theory, 2024.
- 
-
-* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
-Social Awareness using Web Search and Mobility Data**. Applied Data Science Track. The 28th ACM SIGKDD Conference
-on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC, August 14-18, 2022.
-<p align="center">
-  <img src="covid19-prediction.png" width="400">
-</p>
 
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
 Social Awareness using Web Search and Mobility Data**. Applied Data Science Track. The 28th ACM SIGKDD Conference
