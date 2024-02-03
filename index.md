@@ -68,7 +68,7 @@
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Publications
-* Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A simulator for multi-modal Energy-optimal Trip Scheduling in Real-time with shared autonomous electric vehicles**. Simulation Modelling Practice and Theory, 2024.
+* Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles**. Simulation Modelling Practice and Theory, 2024.
 
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Multiwave COVID-19 Prediction from
 Social Awareness using Web Search and Mobility Data**. Applied Data Science Track. The 28th ACM SIGKDD Conference
