@@ -58,6 +58,8 @@
 ---
 
 ## Awards
+* STV Civil Engineering Graduate Assistantship Endowment, Purdue University, 2023.
+* Erin Flanigan Student Travel Award ($300), Purdue University, 2022.
 * STV Civil Engineering Grad Assistantship Endowment, Purdue University, 2019.
 * Andrews Fellowship, Purdue University, 2018.
 * Tsinghua’s Friend-Luo Jian First Price Scholarship, Tsinghua University, 2017.
