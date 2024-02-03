@@ -68,10 +68,22 @@
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Papers
+* **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery
+in Multilayer Socio-physical Networks**. Under Review.
+<p align="center">
+  <img src="hurricane.png" width="530">
+</p>
+
+* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, and Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-Informed
+Graph Learning for Traffic State Imputation**. Under Review.
+<p align="center">
+  <img src="nmfd-gnn.png" width="360">
+</p>
+
 * **Jiawei Xue**, Eunhan Ka, Washim Uddin Mondal, Satish V. Ukkusuri. **Generating Network-level Dynamic Traffic
 Equations Using Symbolic Regression**. Transportation Research Board 103rd Annual Meeting, 2024.
 <p align="center">
-  <img src="nmfd.png" width="480">
+  <img src="nmfd.png" width="420">
 </p>
 
 * Zengxiang Lei, **Jiawei Xue**, Xiaowei Chen, Xinwu Qian, Charitha Saumya, Mingyi He, Stanislav Sobolevsky, Milind Kulkarni, Satish V Ukkusuri. **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles**. Simulation Modelling Practice and Theory, 2024.
