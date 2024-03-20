@@ -9,7 +9,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [Mar. 18, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for presentation at the ISTTT25 conference in Michigan this July. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
+* [Mar. 18, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for presentation at the [ISTTT25](limos.engin.umich.edu/isttt25/) conference in Michigan this July. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
   
 * [Jan. 17, 2024] I am pleased to present our research on graph learning in urban networks to colleagues at the Senseable City Lab at Massachusetts Institute of Technology and the DitecT Lab at Columbia University.
   
