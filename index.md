@@ -9,6 +9,13 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [May 7, 2024] Our paper **Physics-informed Machine Learning for Generalized Bathtub Model in Large-scale Urban Networks** was accepted by **Transportation Research Part C: Emerging Technologies**. Congratulations to all collaborators: Eunhan, Prof. Ludovic Leclercq, and Prof. Ukkusuri!
+  
+* [April 2, 2024] I successfully defended my doctoral dissertation entitled **Physics-informed Graph Learning in Urban Traffic Networks**! I am deeply honored to have been guided by Prof. Satish V. Ukkusuri (Purdue CE), Prof. Yiheng Feng (Purdue CE), Prof. Yexiang Xue (Purdue CS), and Prof. Vijay Gupta (Purdue ECE)!
+<p align="center">
+  <img src="phd-min.png" width="580">
+</p>
+
 * [Mar. 18, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for presentation at the [ISTTT25](limos.engin.umich.edu/isttt25/) conference in Michigan this July. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
   
 * [Jan. 17, 2024] I am pleased to present our research on graph learning in urban networks to colleagues at the Senseable City Lab at Massachusetts Institute of Technology and the DitecT Lab at Columbia University.
