@@ -13,7 +13,7 @@
   
 * [April 2, 2024] I successfully defended my doctoral dissertation entitled **Physics-informed Graph Learning in Urban Traffic Networks**! I am deeply honored to have been guided by Prof. Satish V. Ukkusuri (Purdue CE), Prof. Yiheng Feng (Purdue CE), Prof. Yexiang Xue (Purdue CS), and Prof. Vijay Gupta (Purdue ECE)!
 <p align="center">
-  <img src="phd-min.png" width="580">
+  <img src="phd-min.png" width="400">
 </p>
 
 * [Mar. 18, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for presentation at the [ISTTT25](limos.engin.umich.edu/isttt25/) conference in Michigan this July. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
