@@ -12,6 +12,8 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [May 31, 2024] I am deeply honored to receive today **the Best Student Speaker Award** at Purdue's Institute of Transportation Engineers (ITE) seminars for the 2023 Fall semester. Thanks to Professors and students from Purdue CE for their participation in the seminar!
+
 * [May 24, 2024] Our paper [A Physics-Informed Machine Learning for Generalized Bathtub
 Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/article/pii/S0968090X24001827) was published on **Transportation Research Part C: Emerging Technologies**. Congratulations to all collaborators: Eunhan, Prof. Ludovic Leclercq, and Prof. Ukkusuri!
   
