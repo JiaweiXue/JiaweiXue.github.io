@@ -12,19 +12,19 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
+* [June 1, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and for publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
+  
 * [May 31, 2024] I am deeply honored to receive today **the Best Student Speaker Award** at Purdue's Institute of Transportation Engineers (ITE) seminars for the 2023 Fall semester. Thanks to Professors and students from Purdue CE for their participation in the seminar!
 
 * [May 24, 2024] Our paper [A Physics-Informed Machine Learning for Generalized Bathtub
-Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/article/pii/S0968090X24001827) was published on **Transportation Research Part C: Emerging Technologies**. Congratulations to all collaborators: Eunhan, Prof. Ludovic Leclercq, and Prof. Ukkusuri!
+Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/article/pii/S0968090X24001827) was published on **Transportation Research Part C: Emerging Technologies**. Congratulations to all collaborators: Eunhan, Prof. Leclercq, and Prof. Ukkusuri!
   
 * [April 2, 2024] I successfully defended my doctoral dissertation entitled **Physics-informed Graph Learning in Urban Traffic Networks**! I am deeply honored to have been guided by Prof. Satish V. Ukkusuri (Purdue CE), Prof. Yiheng Feng (Purdue CE), Prof. Yexiang Xue (Purdue CS), and Prof. Vijay Gupta (Purdue ECE)!
 <p align="center">
   <img src="phd-min.png" width="400">
 </p>
 
-* [Mar. 18, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for presentation at the [ISTTT25](limos.engin.umich.edu/isttt25/) conference in Michigan this July. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
-  
-* [Jan. 17, 2024] I am pleased to present our research on graph learning in urban networks to colleagues at the Senseable City Lab at Massachusetts Institute of Technology and the DitecT Lab at Columbia University.
+* [Jan. 17, 2024] I am pleased to present our research on graph learning in urban networks to colleagues at **Senseable City Lab** at Massachusetts Institute of Technology and **DitecT Lab** at Columbia University.
   
 * [Jan. 14, 2024] Our paper **METS-R SIM: A Simulator for Multi-modal Energy-optimal Trip Scheduling in Real-time with Shared Autonomous Electric Vehicles** was accepted by **Simulation Modelling Practice and Theory**. This is a city-wide, high-resolution (vehicle level and 0.3 seconds per tick) multi-modal (taxis and buses) traffic simulator. Congratulations to project leaders Zengxiang Lei, Dr. Xinwu Qian, Prof. Ukkusuri, and other colleagues. Please find our codes at https://github.com/umnilab/METS-R_SIM.
   
