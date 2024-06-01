@@ -89,14 +89,14 @@ Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/artic
   <img src="hurricane.png" width="580">
 </p>
 
-* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-informed Graph Learning for Traffic State Imputation**. Under Review.
-<p align="center">
-  <img src="nmfd-gnn.png" width="360">
-</p>
-
 * **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. Under Review.
 <p align="center">
   <img src="search_mobility.png" width="380">
+</p>
+
+* **Jiawei Xue**, Eunhan Ka, Yiheng Feng, Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation**. Transportation Research Part B, 2024.
+<p align="center">
+  <img src="nmfd-gnn.png" width="360">
 </p>
 
 * **Jiawei Xue**, Eunhan Ka, Washim Uddin Mondal, Satish V. Ukkusuri. **Generating Network-level Dynamic Traffic Equations Using Symbolic Regression**. Transportation Research Board 103rd Annual Meeting, 2024.
