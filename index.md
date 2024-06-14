@@ -12,7 +12,7 @@
 * **Email**: xue120@purdue.edu.
 
 ## News
-* [June 1, 2024] Our study, Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation, has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and for publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
+* [June 1, 2024] Our study, [Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation](https://www.sciencedirect.com/science/article/pii/S0191261524001206), has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
   
 * [May 31, 2024] I am deeply honored to receive today **the Best Student Speaker Award** at Purdue's Institute of Transportation Engineers (ITE) seminars for the 2023 Fall semester. Thanks to Professors and students from Purdue CE for their participation in the seminar!
 
