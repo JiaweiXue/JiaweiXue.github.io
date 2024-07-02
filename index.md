@@ -19,8 +19,6 @@
 * [May 24, 2024] Our paper [A Physics-Informed Machine Learning for Generalized Bathtub
 Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/article/pii/S0968090X24001827) was published on **Transportation Research Part C: Emerging Technologies**. Congratulations to all collaborators: Eunhan, Prof. Leclercq, and Prof. Ukkusuri!
 
-* [April 20, 2024] I am pleased to announce that I will join [Alibaba Group](https://www.alibabagroup.com/en-US/) as a Senior Algorithm Engineer in September 2024. Look forward to utilizing human behavior data and ML methods to provide more efficient and sustainable services to customers globally!
-
 * [April 2, 2024] I successfully defended my doctoral dissertation entitled **Physics-informed Graph Learning in Urban Traffic Networks**! I am deeply honored to have been guided by Prof. Satish V. Ukkusuri (Purdue CE), Prof. Yiheng Feng (Purdue CE), Prof. Yexiang Xue (Purdue CS), and Prof. Vijay Gupta (Purdue ECE)!
 <p align="center">
   <img src="phd-min.png" width="400">
