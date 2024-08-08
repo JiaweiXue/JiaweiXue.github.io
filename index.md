@@ -2,9 +2,7 @@
 * My photos were taken on Mar. 13, 2022, at 40.286&deg;N, 87.292&deg;W (top) and on May 26, 2024, at 44.480&deg;N, 73.222&deg;W (down).
 <p align="center">
   <img src="pic2.png" width="200" height="230">
-</p>
-<p align="center">
-  <img src="JiaweiXue.png" width="200" height="278">
+  <img src="JiaweiXue.png" width="170" height="230">
 </p>
 
 * **Location**: Lyles School of Civil Engineering, Purdue University, 550 W Stadium Ave, West Lafayette, IN 47907, U.S.
