@@ -5,9 +5,8 @@
   <img src="JiaweiXue.png" width="170" height="230">
 </p>
 
-* **Location**: Lyles School of Civil Engineering, Purdue University, 550 W Stadium Ave, West Lafayette, IN 47907, U.S.
-* **Phone**: (765) 714-7627.
-* **Email**: xue120@purdue.edu.
+* **Location**: Alibaba Group, Wangjing Subdistrict, Chaoyang District, Beijing, China.
+* **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com
 
 ## News
 * [June 1, 2024] Our study, [Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation](https://www.sciencedirect.com/science/article/pii/S0191261524001206), has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
