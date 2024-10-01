@@ -9,6 +9,8 @@
 * **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com
 
 ## News
+* [Sept. 28, 2024] Our paper, An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks, has been accepted for publication at **Sustainable Cities and Society**. Congratulations to all collaborators: Dr. Park, Dr. Mondal, Dr. Reia, Dr. Yao, and Prof. Ukkusuri.
+  
 * [June 1, 2024] Our study, [Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation](https://www.sciencedirect.com/science/article/pii/S0191261524001206), has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
   
 * [May 31, 2024] I am deeply honored to receive today **the Best Student Speaker Award** at Purdue's Institute of Transportation Engineers (ITE) seminars for the 2023 Fall semester. Thanks to Professors and students from Purdue CE for their participation in the seminar!
@@ -81,7 +83,7 @@ Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/artic
 
 ## Selected Papers
 
-* **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks**. Under Review.
+* **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks**. Sustainable Cities and Society, 2024.
 <p align="center">
   <img src="hurricane.png" width="580">
 </p>
