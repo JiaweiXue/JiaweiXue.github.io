@@ -74,6 +74,7 @@ Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/artic
 ---
 
 ## Awards
+* Best Student Speaker Award, Purdue's Institute of Transportation Engineers (ITE) seminars, 2023 Fall.
 * STV Civil Engineering Graduate Assistantship Endowment, Purdue University, 2023.
 * Erin Flanigan Student Travel Award ($300), Purdue University, 2022.
 * STV Civil Engineering Grad Assistantship Endowment, Purdue University, 2019.
