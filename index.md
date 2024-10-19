@@ -9,6 +9,8 @@
 * **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com
 
 ## News
+* [Oct. 17, 2024] Our work from the Purdue-Yahoo Japan project, **Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks**, has been accepted for publication on **IEEE Transactions on Knowledge and Data Engineering**. Congratulations to all collaborators: Dr. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
+
 * [Sept. 28, 2024] Our paper, [An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks](https://www.sciencedirect.com/science/article/abs/pii/S2210670724006875), has been accepted for publication on **Sustainable Cities and Society**. Congratulations to all collaborators: Dr. Park, Dr. Mondal, Dr. Reia, Dr. Yao, and Prof. Ukkusuri.
   
 * [June 1, 2024] Our study, [Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation](https://www.sciencedirect.com/science/article/pii/S0191261524001206), has been accepted for poster presentation at [ISTTT25](limos.engin.umich.edu/isttt25/) and publication on **Transportation Research Part B: Methodological**. Sincere thanks to all collaborators: Eunhan, Prof. Feng, and Prof. Ukkusuri.
@@ -88,7 +90,7 @@ Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/artic
   <img src="hurricane.png" width="580">
 </p>
 
-* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. Under Review.
+* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2024.
 <p align="center">
   <img src="search_mobility.png" width="380">
 </p>
