@@ -9,7 +9,7 @@
 * **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com
 
 ## News
-* [Oct. 17, 2024] Our work from the Purdue-Yahoo Japan project, **Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks**, has been accepted for publication on **IEEE Transactions on Knowledge and Data Engineering**. Congratulations to all collaborators: Dr. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
+* [Oct. 17, 2024] Our work from the Purdue-Yahoo Japan project, **Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks**, has been accepted for publication on **IEEE Transactions on Knowledge and Data Engineering**. Congratulations to all collaborators: Prof. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
 
 * [Sept. 28, 2024] Our paper, [An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks](https://www.sciencedirect.com/science/article/abs/pii/S2210670724006875), has been accepted for publication on **Sustainable Cities and Society**. Congratulations to all collaborators: Dr. Park, Dr. Mondal, Dr. Reia, Dr. Yao, and Prof. Ukkusuri.
   
