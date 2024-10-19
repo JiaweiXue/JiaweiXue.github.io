@@ -84,15 +84,14 @@ Model in Large-Scale Urban Networks](https://www.sciencedirect.com/science/artic
 * The First Prize in the National High School Mathematics Contest, Zhejiang, 2012.
 
 ## Selected Papers
+* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2024.
+<p align="center">
+  <img src="search_mobility.png" width="380">
+</p>
 
 * **Jiawei Xue**, Sangung Park, Washim Uddin Mondal, Sandro Martinelli Reia, Tong Yao, Satish V. Ukkusuri. **An Agent-based Model of Post-disaster Recovery in Multilayer Socio-physical Networks**. Sustainable Cities and Society, 2024.
 <p align="center">
   <img src="hurricane.png" width="580">
-</p>
-
-* **Jiawei Xue**, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri. **Predicting Individual Irregular Mobility via Web Search-driven Bipartite Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2024.
-<p align="center">
-  <img src="search_mobility.png" width="380">
 </p>
 
 * **Jiawei Xue**, Eunhan Ka, Yiheng Feng, Satish V. Ukkusuri. **Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation**. Transportation Research Part B, 2024.
