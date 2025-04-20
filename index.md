@@ -155,11 +155,13 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - STAT 526: Advanced Statistical Methodology (A+)
 
 ## Sports 
-- **1h, 44min** (2022 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2022).
-- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, Indianapolis, IN, Nov. 2021).
-- **1h, 51min** (2019 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2019).
-- **1h, 58min** (2018 Purdue Boilermaker Half-marathon, West Lafayette, IN, Oct. 2018).
-- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, Apr. 2017).
+- **5h, 13min** (2025 BOB Beijing MC Marathon, Beijing, China, Apr. 2025).
+- **5h, 37min** (2024 M&T Vermont City Marathon, VT, US, May 2024).
+- **1h, 44min** (2022 Purdue Boilermaker Half-marathon, IN, US, Oct. 2022).
+- **1h, 48min** (2021 CNO Financial Indianapolis Monumental Half-marathon, IN, US, Nov. 2021).
+- **1h, 51min** (2019 Purdue Boilermaker Half-marathon, IN, US, Oct. 2019).
+- **1h, 58min** (2018 Purdue Boilermaker Half-marathon, IN, US, Oct. 2018).
+- **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, China, Apr. 2017).
 
 ## Mobility History
 * I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update my belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
