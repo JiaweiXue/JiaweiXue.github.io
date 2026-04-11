@@ -7,7 +7,7 @@
 </p>
 
 * **Location**: Alibaba Group, Wangjing Subdistrict, Chaoyang District, Beijing, China.
-* **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com
+* **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com; martin1995@vip.qq.com.
 
 ## News
 * [Nov. 20, 2024] Our work from the Purdue-Yahoo Japan project, [Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks](https://ieeexplore.ieee.org/document/10758246), has been published on **IEEE Transactions on Knowledge and Data Engineering**. Congratulations to all collaborators: Prof. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
