@@ -155,6 +155,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - STAT 526: Advanced Statistical Methodology (A+)
 
 ## Sports 
+- **4h, 57min** (2026 Tokyo Marathon, Tokyo, Japan, Mar. 2026).
 - **5h, 13min** (2025 BOB Beijing MC Marathon, Beijing, China, Apr. 2025).
 - **5h, 37min** (2024 M&T Vermont City Marathon, VT, US, May 2024).
 - **1h, 44min** (2022 Purdue Boilermaker Half-marathon, IN, US, Oct. 2022).
