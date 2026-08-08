@@ -166,7 +166,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
 - **2h, 36min** (2017 U-Run Tsinghua University Campus Half-marathon, Beijing, China, Apr. 2017).
 
 ## Mobility History
-* I visualize my mobility map as of June 2022. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update my belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
+* I visualize my mobility map as of Aug. 2026. I enjoy visiting new places, which is modeled as a Bayesian procedure. I update my belief on a place based on real-time trip observations and historical prior envisions that come from books, news, videos, friends, papers, etc.  
 * I define the optimal place to live from three perspectives:
   - infrastructure accessibility (e.g., not far from airports).
   - human community development (e.g., high life expectancy).
@@ -177,7 +177,7 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
   - Toledo, OH, U.S.
 
 <p align="center">
-  <iframe src="https://jiaweixue.github.io/life_mobility_map_as_of_2026.html" width="100%" height="500px" style="border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" allowfullscreen></iframe>
+  <iframe src="https://jiaweixue.github.io/life_mobility_map_as_of_2026.html" width="100%" height="350px" style="border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" allowfullscreen></iframe>
 </p>
 
 <a href="https://clustrmaps.com/site/1box4" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tlwTbnLu7YWPVReIu_sKJbYgRTdbEZc8t5F3cXbPT4Y&cl=ffffff"></a>
