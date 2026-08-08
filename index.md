@@ -180,8 +180,6 @@ Spatial Homogeneity of Urban Road Networks via Graph Neural Networks**. Nature M
   <iframe src="https://jiaweixue.github.io/life_mobility_map_as_of_2026.html" width="100%" height="350px" style="border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" allowfullscreen></iframe>
 </p>
 
-<a href="https://clustrmaps.com/site/1box4" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tlwTbnLu7YWPVReIu_sKJbYgRTdbEZc8t5F3cXbPT4Y&cl=ffffff"></a>
-
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>   -->  
 <!-- Remove above link if you don't want to attibute -->  
 
