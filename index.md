@@ -10,7 +10,7 @@
 * **Email**: xuejiawei.xjw@alibaba-inc.com; xuejw2088@gmail.com; martin1995@vip.qq.com.
 
 ## News
-* [Jun. 16, 2026] Our industry-deployed large-scale POI study, [Spacetime-GR: A Spacetime-aware Generative Model for Large-scale Online POI Recommendation](https://arxiv.org/pdf/2508.16126), has been accepted as an Applied Track paper at the IEEE International Conference on Data Mining **(IEEE ICDM-26)**. Acceptance Rate: 19.96% (103/516). Congratulations to all colleagues.
+* [Aug. 16, 2026] Our industry-deployed large-scale POI study, [Spacetime-GR: A Spacetime-aware Generative Model for Large-scale Online POI Recommendation](https://arxiv.org/pdf/2508.16126), has been accepted as an Applied Track paper at the IEEE International Conference on Data Mining **(IEEE ICDM-26)**. Acceptance Rate: 19.96% (103/516). Congratulations to all colleagues.
   
 * [Nov. 20, 2024] Our work from the Purdue-Yahoo Japan project, [Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks](https://ieeexplore.ieee.org/document/10758246), has been published on **IEEE Transactions on Knowledge and Data Engineering**. Congratulations to all collaborators: Prof. Taka, Dr. Kota, Prof. Ma, and Prof. Ukkusuri.
 
